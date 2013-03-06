@@ -1,0 +1,5 @@
+Host *.farm
+    IdentityFile ~/.ssh/id_rsa.elk
+
+Host 77.77.77.*
+    IdentityFile ~/.ssh/id_rsa.elk
